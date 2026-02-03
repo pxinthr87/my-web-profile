@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+   
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>โปรไฟล์ของฉัน</title>
+
+  <link rel="stylesheet" href="style.css">
+  
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>โปรไฟล์ของฉัน</title>
+
+  </head>
+<body>
+
+  <header>
+    <h1>โปรไฟล์ของฉัน (My Profile)</h1>
+  </header>
+
+  <main>
+    <section class="card">
+      <img src="หน้ากุ.png" alt="รูปโปรไฟล์ตัวอย่าง">
+      <h2 id="profile-name">นาย ภูมิพัฒน์ ผลอินทร์</h2>
+      <p class="bio">รักการใช้ชีวิตครับ</p>
+
+      <h3>ทักษะของฉัน</h3>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>flutter</li>
+      </ul>
+    </section>
+  </main>
+
+</body>
+</html>
